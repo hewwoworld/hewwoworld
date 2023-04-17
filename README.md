@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with python GUIs
 - 💬 Ask me about AI
 -->
+
+I'm hewwoworld(hewo-wawld) and I specialise in AI and websites.
